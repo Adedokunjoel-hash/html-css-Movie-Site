@@ -1,0 +1,156 @@
+.header {
+  background-color: #102e50;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding-left: 5px;
+  padding: 3px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.paragraph {
+  text-align: center;
+  background-color: #9cc6f7;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  border-top: solid #579be9 2px;
+  border-bottom: solid #579be9 2px;
+}
+
+.key {
+  background: #102e50;
+  padding-left: 10px;
+  margin: 5px 0px;
+  font-size: 14px;
+  color: white;
+}
+
+.img-top {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#img-top-title {
+  display: block;
+  text-align: center;
+  margin-top: -10px;
+  cursor: pointer;
+}
+
+.Share {
+  color: #579be9;
+  text-align: center;
+}
+
+.text {
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+  float: left;
+}
+
+.subtext {
+  font-size: 14px;
+  color: black;
+}
+
+.paragraph-1 {
+  font: bold;
+  text-align: center;
+  background-color: #9cc6f7;
+  color: rgb(0, 0, 0);
+  border-top: solid #579be9 1px;
+  border-bottom: solid #579be9 1px;
+  margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.paragraph-3 {
+  border-top: 1px dashed #102e50;
+  border-bottom: 1px dashed #102e50;
+}
+.Seasons {
+  text-align: center;
+}
+.Seasons-1 {
+  border-top: 1px dashed #102e50;
+  border-bottom: 1px dashed #102e50;
+  padding: 10px 0px;
+  text-align: center;
+  color: black;
+}
+
+.header-bar {
+  text-align: center;
+  background-color: #102e50;
+  margin: 5px;
+  padding: 10px 0px;
+  color: white;
+}
+
+.slide-images {
+  text-align: center;
+  border-radius: 10px;
+  object-fit: cover;
+  position: relative;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+#margin-left1 {
+  margin-left: 20px;
+}
+
+#margin-left {
+  margin-left: 20px;
+}
+
+#margin-left2 {
+  margin-left: 20px;
+}
+#margin-left3 {
+  margin-left: 20px;
+}
+.poster-text {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 10px;
+}
+.poster-text1 {
+  margin-right: 28%;
+}
+.poster-text2 {
+  margin-right: 8%;
+  margin-top: -10px;
+}
+.poster-text3 {
+  margin-left: 12%;
+  margin-top: -10px;
+}
+.poster-text4 {
+  margin-left: 32%;
+  margin-top: -10px;
+}
+.headline-Bar {
+  color: white;
+  text-align: center;
+  background-color: #102e50;
+  margin: 5px 0px 5px;
+  padding: 5px 0px;
+}
+#last-header-bar {
+  margin-top: 5px;
+  text-align: center;
+  background-color: #102e50;
+  color: rgb(255, 255, 255);
+  border-radius: 0px 5px 5px 5px;
+  padding-left: 5px;
+  padding: 3px;
+}
